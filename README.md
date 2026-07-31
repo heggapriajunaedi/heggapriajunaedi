@@ -1,1 +1,3 @@
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<p align="center">
+  <img src="terminal_header.svg" alt="welcome to egaa@github" width="100%" />
+</p>
