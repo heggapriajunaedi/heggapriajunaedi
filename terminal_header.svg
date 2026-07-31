@@ -435,5 +435,5 @@
 <text x="364" y="224" font-size="14" fill="#4caf50" opacity="0"><animate attributeName="opacity" values="0;1" begin="6.42s;27.74s" dur="0.02s" fill="freeze" repeatCount="indefinite"/>g</text>
 <text x="372" y="224" font-size="14" fill="#4caf50" opacity="0"><animate attributeName="opacity" values="0;1" begin="6.46s;27.78s" dur="0.02s" fill="freeze" repeatCount="indefinite"/> </text>
 <text x="380" y="224" font-size="14" fill="#4caf50" opacity="0"><animate attributeName="opacity" values="0;1" begin="6.50s;27.82s" dur="0.02s" fill="freeze" repeatCount="indefinite"/>🐍</text>
-<rect x="388" y="211" width="8" height="14" fill="#00e676" opacity="0"><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></rect>
+<rect x="388" y="211" width="8" height="14" fill="#4caf50"/>
 </svg>
