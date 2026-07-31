@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="terminal_header.svg" alt="welcome to egaa@github" width="100%" />
+  <img src="terminal_header.svg?v=2" alt="welcome to egaa@github" width="100%" />
 </p>
