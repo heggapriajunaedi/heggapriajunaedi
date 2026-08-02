@@ -5,13 +5,22 @@
 ## whoami
 
 ```bash
-      /\            hegga pria junaedi — egaa
-     /  \           -------------------------
-    / /\ \          os      arch linux
-   / / /\ \         whoami  hegga pria junaedi
-  / / /  \ \        bio     software engineering student
- / / / /\ \ \       focus   python · linux · automation
-/ / / /  \ \ \
+.
+                   / \
+                  /   \
+                 /     \
+                /.      \
+               ,_ `.     \
+              /   ``-     .            hegga pria junaedi — egaa
+             /             `           -------------------------
+            /               `.         os      arch linux
+          .`      ."`".       \        whoami  hegga pria junaedi
+         .       '     \       \       bio     software engineering student
+        /        \      ;     -.\      focus   python · linux · automation
+       /        .'     /._     `".
+      /   .-"`             `"-.   `.
+    .`.-`                       `-._\
+    `                               `
 ```
 
 <p align="center">
