@@ -31,8 +31,8 @@ drwxr-xr-x  egaa  egaa  4096 Jun 13 MyPortfolio      # portfolio site
 
 ```bash
 $ cat stack.txt
-python        ██████████████████░░  90%  scripting, automation, tools
-opencv        ██████████░░░░░░░░░░  50%  hand tracking, gesture
-javascript    ████████░░░░░░░░░░░░  40%  frontend basics
-git + linux   ██████████████░░░░░░  70%  daily driver, terminal-first
+python        scripting, automation, tools
+opencv        hand tracking, gesture
+javascript    frontend basics
+git + linux   daily driver, terminal-first
 ```
