@@ -16,3 +16,13 @@ that live in the terminal.
 $ cat focus.txt
 python · scripting · automation · terminal aesthetics
 ```
+
+## projects
+
+```bash
+$ ls -la ~/projects
+drwxr-xr-x  egaa  egaa  4096 Aug  2  python-lyrics   # terminal lyrics animation
+drwxr-xr-x  egaa  egaa  4096 Jul 29 handScanning     # hand tracking with OpenCV
+drwxr-xr-x  egaa  egaa  4096 Jul 29 handGesture      # gesture recognition
+drwxr-xr-x  egaa  egaa  4096 Jun 13 MyPortfolio      # portfolio site
+```
