@@ -29,10 +29,6 @@ drwxr-xr-x  egaa  egaa  4096 Jun 13 MyPortfolio      # portfolio site
 
 ## stack
 
-```bash
-$ cat stack.txt
-python        scripting, automation, tools
-opencv        hand tracking, gesture
-javascript    frontend basics
-git + linux   daily driver, terminal-first
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,tailwind,js,py,git,linux,cpp,react,php,laravel" alt="skills" />
+</p>
