@@ -11,9 +11,9 @@
                  /     \
                 /.      \
                ,_ `.     \
-              /   ``-     .            hegga pria junaedi — egaa
+              /   ``-     .            Hegga Pria Junaedi — egaa
              /             `           -------------------------
-            /               `.         os      arch linux
+            /               `.         os      i use arch btw
           .`      ."`".       \        whoami  hegga pria junaedi
          .       '     \       \       bio     software engineering student
         /        \      ;     -.\      focus   python · linux · automation
@@ -27,16 +27,6 @@
   <a href="mailto:heggapriajunaedi22@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://github.com/heggapriajunaedi"><img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
-
-## projects
-
-```bash
-$ ls -la ~/projects
-drwxr-xr-x  egaa  egaa  4096 Aug  2  python-lyrics   # terminal lyrics animation
-drwxr-xr-x  egaa  egaa  4096 Jul 29 handScanning     # hand tracking with OpenCV
-drwxr-xr-x  egaa  egaa  4096 Jul 29 handGesture      # gesture recognition
-drwxr-xr-x  egaa  egaa  4096 Jun 13 MyPortfolio      # portfolio site
-```
 
 ## stack
 
