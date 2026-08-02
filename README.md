@@ -14,7 +14,7 @@ Learning by building things — mostly scripts and small tools
 that live in the terminal.
 
 $ cat focus.txt
-python · scripting · automation · terminal aesthetics
+python · linux · automation
 ```
 
 ## projects
