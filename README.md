@@ -9,13 +9,26 @@ $ whoami
 hegga pria junaedi — egaa
 
 $ cat bio.txt
-Python developer based in Indonesia.
-Learning by building things — mostly scripts and small tools
-that live in the terminal.
+Software engineering student from Indonesia,
+exploring Python, data, and everything that
+runs in a terminal.
 
 $ cat focus.txt
 python · linux · automation
+
+$ cat socials.txt
+email  heggapriajunaedi22@gmail.com
+github heggapriajunaedi
+zsh    egaadelrey
+
+$ uptime
+learning since 2023 — still having fun
 ```
+
+<p align="center">
+  <a href="mailto:heggapriajunaedi22@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://github.com/heggapriajunaedi"><img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+</p>
 
 ## projects
 
