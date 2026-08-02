@@ -34,15 +34,11 @@ drwxr-xr-x  egaa  egaa  4096 Jun 13 MyPortfolio      # portfolio site
   <br>
   <img src="https://skillicons.dev/icons?i=html,tailwind,js,react,php,laravel" alt="web" />
   <br><br>
-  <b>languages</b>
+  <b>tools</b>
   <br>
-  <img src="https://skillicons.dev/icons?i=python,cpp" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,docker,nginx,bash" alt="tools" />
   <br><br>
-  <b>data science & ai</b>
+  <b>database</b>
   <br>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,matplotlib,sklearn,tensorflow,pytorch,keras,opencv,scipy" alt="data science" />
-  <br><br>
-  <b>tools & database</b>
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,mysql,postgres,sqlite,mongodb,redis,nginx,bash" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" alt="database" />
 </p>
