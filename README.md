@@ -30,5 +30,7 @@ drwxr-xr-x  egaa  egaa  4096 Jun 13 MyPortfolio      # portfolio site
 ## stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,tailwind,js,py,git,linux,cpp,react,php,laravel" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,tailwind,js,py,git,linux,cpp,react,php,laravel&perline=10" alt="skills" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,matplotlib,sklearn,tensorflow,pytorch,keras,opencv,scipy&perline=10" alt="data science" />
 </p>
