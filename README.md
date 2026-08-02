@@ -5,24 +5,13 @@
 ## whoami
 
 ```bash
-$ whoami
-hegga pria junaedi — egaa
-
-$ cat bio.txt
-Software engineering student from Indonesia,
-exploring Python, data, and everything that
-runs in a terminal.
-
-$ cat focus.txt
-python · linux · automation
-
-$ cat socials.txt
-email  heggapriajunaedi22@gmail.com
-github heggapriajunaedi
-zsh    egaadelrey
-
-$ uptime
-learning since 2023 — still having fun
+      /\            hegga pria junaedi — egaa
+     /  \           -------------------------
+    / /\ \          os      arch linux
+   / / /\ \         whoami  hegga pria junaedi
+  / / /  \ \        bio     software engineering student
+ / / / /\ \ \       focus   python · linux · automation
+/ / / /  \ \ \
 ```
 
 <p align="center">
