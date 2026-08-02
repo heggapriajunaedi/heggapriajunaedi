@@ -30,15 +30,9 @@ drwxr-xr-x  egaa  egaa  4096 Jun 13 MyPortfolio      # portfolio site
 ## stack
 
 <p align="center">
-  <b>web</b>
-  <br>
   <img src="https://skillicons.dev/icons?i=html,tailwind,js,react,php,laravel" alt="web" />
   <br><br>
-  <b>tools</b>
-  <br>
   <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,docker,nginx,bash" alt="tools" />
   <br><br>
-  <b>database</b>
-  <br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" alt="database" />
 </p>
