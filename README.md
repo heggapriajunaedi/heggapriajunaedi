@@ -29,8 +29,6 @@ drwxr-xr-x  egaa  egaa  4096 Jun 13 MyPortfolio      # portfolio site
 
 ## stack
 
-## stack
-
 <p align="center">
   <b>web</b>
   <br>
