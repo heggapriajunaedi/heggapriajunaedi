@@ -26,3 +26,13 @@ drwxr-xr-x  egaa  egaa  4096 Jul 29 handScanning     # hand tracking with OpenCV
 drwxr-xr-x  egaa  egaa  4096 Jul 29 handGesture      # gesture recognition
 drwxr-xr-x  egaa  egaa  4096 Jun 13 MyPortfolio      # portfolio site
 ```
+
+## stack
+
+```bash
+$ cat stack.txt
+python        ██████████████████░░  90%  scripting, automation, tools
+opencv        ██████████░░░░░░░░░░  50%  hand tracking, gesture
+javascript    ████████░░░░░░░░░░░░  40%  frontend basics
+git + linux   ██████████████░░░░░░  70%  daily driver, terminal-first
+```
